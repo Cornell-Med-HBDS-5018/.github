@@ -91,4 +91,4 @@ Then you need to push your commits to GitHub so everyone else will see what you 
 $ git push origin <your_branch_name>
 ```
 
-Note: Direct push to `main` branch is **NOT allowed**. You have to make commits on your own branch locally then push it to GitHub. I will merge your commits into the `main` branch.
+Note: Direct push to `main` branch is **NOT allowed**. You have to make commits on your own branch locally then push them to GitHub and **[Open a Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) that will merge your contribution into `main` branch**.
