@@ -29,12 +29,13 @@ $ git checkout main
 # pull from GitHub
 $ git pull origin main
 
+# if there is no branch exists
 # create a new branch from main (replace <your_branch_name> with your own branch name)
 $ git checkout -b <your_branch_name>
 
 # if the branch exists
 $ git checkout <your_branch_name>
-$ git merege main
+$ git merge main
 ```
 
 ### :new: Make Commits
